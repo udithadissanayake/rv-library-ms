@@ -4,7 +4,7 @@ metadata:
   name: rv-library-ms
   description: Demo service registered in Backstage
   annotations:
-    github.com/project-slug: udithadissanayake/demo
+    github.com/project-slug: udithadissanayake/rv-library-ms
 spec:
   type: service
   lifecycle: experimental
