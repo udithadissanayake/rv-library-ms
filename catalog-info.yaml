@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo
+  name: rv-library-ms
   description: Demo service registered in Backstage
   annotations:
     github.com/project-slug: udithadissanayake/demo
